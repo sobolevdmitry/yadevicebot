@@ -1,0 +1,7 @@
+.idea/
+venv/
+__pycache__/
+service/__pycache__/
+var/
+config/*.yaml
+!config/*.default.yaml
